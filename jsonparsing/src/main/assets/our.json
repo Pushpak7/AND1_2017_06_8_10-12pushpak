@@ -1,0 +1,29 @@
+{
+    "keyString": "value",
+ "keyNum": 123,
+  "Result": 99.99,
+  "adds": [
+    "Pune",
+    "Sangli",
+    "Mumbai"
+  ],
+  "mouse": {
+    "cost": 550,
+    "name": "iball"
+  },
+  "parse": "Parsing is nothing but extracting the data from bigger chunk",
+  "devices": [
+    {
+      "cost": 8000,
+      "name": "headphones"
+    },
+    {
+      "cost": 2000,
+      "name": "RAM"
+    },
+    {
+      "cost": 5000,
+      "name": "MotherBoard"
+    }
+  ]
+}
